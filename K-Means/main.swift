@@ -53,6 +53,6 @@ func testSmall_3D() {
     }
 }
 
-//testSmall_2D()
+testSmall_2D()
 //testSmall_10D()
-testSmall_3D()
+//testSmall_3D()
