@@ -13,6 +13,7 @@
 		72E4C4031D99B856003F2B6E /* indexOfNearestCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E4C4021D99B856003F2B6E /* indexOfNearestCenter.swift */; };
 		72E4C4051D99B87D003F2B6E /* Cluster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E4C4041D99B87D003F2B6E /* Cluster.swift */; };
 		72E4C4071D99BA14003F2B6E /* GenPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E4C4061D99BA14003F2B6E /* GenPoints.swift */; };
+		72E4C4091D99E2DB003F2B6E /* Test Cases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E4C4081D99E2DB003F2B6E /* Test Cases.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		72E4C4021D99B856003F2B6E /* indexOfNearestCenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = indexOfNearestCenter.swift; sourceTree = "<group>"; };
 		72E4C4041D99B87D003F2B6E /* Cluster.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cluster.swift; sourceTree = "<group>"; };
 		72E4C4061D99BA14003F2B6E /* GenPoints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenPoints.swift; sourceTree = "<group>"; };
+		72E4C4081D99E2DB003F2B6E /* Test Cases.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Test Cases.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				72E4C3FE1D99B5AD003F2B6E /* Vector.swift */,
 				72E4C4001D99B5C4003F2B6E /* K-Means.swift */,
 				72E4C4021D99B856003F2B6E /* indexOfNearestCenter.swift */,
+				72E4C4081D99E2DB003F2B6E /* Test Cases.swift */,
 			);
 			path = "K-Means";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72E4C4091D99E2DB003F2B6E /* Test Cases.swift in Sources */,
 				72E4C4011D99B5C4003F2B6E /* K-Means.swift in Sources */,
 				72E4C4031D99B856003F2B6E /* indexOfNearestCenter.swift in Sources */,
 				72E4C3FF1D99B5AD003F2B6E /* Vector.swift in Sources */,
