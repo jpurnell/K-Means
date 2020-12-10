@@ -1,2 +1,2 @@
 # K-Means
-Swift 3.0 Implementation of K-Means Clustering
+Swift 5.2 Implementation of K-Means Clustering
